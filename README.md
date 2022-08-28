@@ -16,13 +16,14 @@ $~$
 + **Modular code**: Code that is logically broken up into functions and modules. Modular production-quality code that makes your code more organized, efficient, and reusable.
 
 + **Module**: A file. Modules allow code to be reused by encapsulating them into files that can be imported into other files.
-
+___
 
 $~$
 
 ### Refactoring code
+$~$
 
-$~$ 
+
 
 + **Refactoring**: Restructuring your code to improve its internal structure without changing its external functionality. This gives you a chance to clean and modularize your program after you've got it working.
 
